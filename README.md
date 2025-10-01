@@ -13,3 +13,4 @@
 | 4  | Mustera Matas | Musty26 | [github.com/Musty26](http\s://github.com/Xincheng-Bit) | [Musty26.github.io](https://Xincheng-Bit.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
 | 5  | Cabrera      | Adrià    | adcama | [github.com/adcama](https://github.com/adcama) | [rocher.github.io](https://adcama.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
 | 6  | Morales Franco |Pablo | Pablo2918 | [github.com/pablo2918](https://github.com/pablo2918) | [pablo2918.github.io](https://pablo2918.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
+| 7   | El Kaddouri Chikhi | Hamza | hamzaelkaddou| [github.com/hamzaelkaddou](https://github.com/hamzaelkaddou)| [hamzaelkaddo.github.io](https://hamzaelkaddou.github.io) | [Futur projecte]()
