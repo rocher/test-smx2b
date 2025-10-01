@@ -16,3 +16,4 @@
 | 7   | El Kaddouri Chikhi | Hamza | hamzaelkaddou| [github.com/hamzaelkaddou](https://github.com/hamzaelkaddou)| [hamzaelkaddo.github.io](https://hamzaelkaddou.github.io) | [Futur projecte]()
 | 8  | Moscoso Cubero | Aleix  | aleixmoscoso17 | [github.com/aleixmoscoso17](https://github.com/aleixmoscoso17) | [rocher.github.io](https://rocher.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
 | 9  | Urra Peralta | Alex | Alexup220 | [github.com/alexup220](https://github.com/alexup220) | [alexup220.github.io](https://alexup220.github.io) ||
+| 10 | Yannick      | alberola | yaalbe1| [github.com/yaalbe1](https://github.com/rocher) | [rocher.github.io](https://rocher.github.io) | [La FUSTA](http://lafusta.endinahosting.com) |
