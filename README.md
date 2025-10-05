@@ -4,8 +4,8 @@
 
 ## Taula de projectes
 
-|    |                    |               | GitHub                                              |                                                           | Projecte                                     |
-|:--:|--------------------|---------------|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------|
+|    | Alumne/a           |               | GitHub                                              |                                                           | Projecte                                     |
+|:--:|:-------------------|:--------------|:----------------------------------------------------|:----------------------------------------------------------|:---------------------------------------------|
 |  # | **Cognoms**        | **Nom**       | **_Dashboard_**                                     | **_Web_**                                                 | **_Web_**                                    |
 |  1 | Rocher Muñoz       | Francesc      | [rocher](https://github.com/rocher)                 | [rocher.github.io](https://rocher.github.io)              | [La FUSTA](http://lafusta.endinahosting.com) |
 |  2 | Ye                 | Xincheng      | [Xincheng-bit](https://github.com/Xincheng-bit)     | [Xincheng-bit.github.io](https://xincheng-bit.github.io)  | [La FUSTA](http://lafusta.endinahosting.com) |
