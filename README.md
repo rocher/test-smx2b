@@ -18,3 +18,4 @@
 |  9 | Urra Peralta       | Alex          | [alexup220](https://github.com/alexup220)           | [alexup220.github.io](https://alexup220.github.io)        |                                              |
 | 10 | Yannick            | alberola      | [yaalbe1](https://github.com/rocher)                | [rocher.github.io](https://rocher.github.io)              | [La FUSTA](http://lafusta.endinahosting.com) |
 | 11 | Torres             | Erik          | [rocher](https://github.com/rocher)                 | [rocher.github.io](https://rocher.github.io)              | [La FUSTA]                                   |
+| 13 | Joel               | García        | [jogaga1](https://github.com/jogaga1)               | [jogaga1.github.io](https://jogaga1.github.io)            | [ ]                                          |
