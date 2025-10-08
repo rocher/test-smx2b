@@ -22,4 +22,4 @@
 | 11 | Torres Toledano    | Erik          | [etorres1-1](https://github.com/etorres1-1)         | [etorres1-1.github.io](https://etorres1-1.github.io)                | [La FUSTA](http://lafusta.endinahosting.com)        |
 | 12 | Ventura Llopart    | Joel          | [joelventura21](https://github.com/joelventura21)   | [joelventura21.github.io](https://joelventura21.github.io)|                                             |
 | 13 | Joel               | García        | [jogaga1](https://github.com/jogaga1)               | [jogaga1.github.io](https://jogaga1.github.io)            | [ ]                                          |
->>>>>>> 6b9d401349ff03efee1b3ce73132df7a66616b1a
+
